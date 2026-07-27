@@ -1,1 +1,9 @@
-
+{
+    "geode": "1.0.0",
+    "version": "0.1.0",
+    "id": "dex.clockvault",
+    "name": "Clock Vault",
+    "developer": "Dexter",
+    "description": "Adds a fan-made Clock Vault to Geometry Dash.",
+    "dependencies": []
+}
